@@ -139,9 +139,12 @@ Fix The City empowers citizens by providing a simple and efficient platform to r
 
 <table>
   <tr>
-    <td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325160341608468510/image.png?ex=677ac73d&is=677975bd&hm=8be8fdb77e79962c720353053bf27f94498fd94607113b926329361d217646d8&" alt="signin" width="200"></td>
-    <td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325160455592738906/image.png?ex=677ac758&is=677975d8&hm=c2d465849542bd88743e0f36028e10bde189a444aaf5058d825f996310ad2669&" alt="register" width="200"></td> 
-    <td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325160879179960420/image.png?ex=677ac7bd&is=6779763d&hm=fb2370bd19e6e16bb5c5c7218715d78924c25717db2c1e524205b5f7ecc0322f&" alt="Image 3" width="200"></td>
+    <td> <img src="https://raw.githubusercontent.com/rajeevpaudel1/Fix-The-City/main/fixthecity/assets/fixthecity-asset/z6.png" alt="Fix The City Asset" width="200">
+</td>
+    <td> <img src="https://raw.githubusercontent.com/rajeevpaudel1/Fix-The-City/main/fixthecity/assets/fixthecity-asset/z7.png" alt="Fix The City Asset" width="200">
+</td> 
+    <td> <img src="https://raw.githubusercontent.com/rajeevpaudel1/Fix-The-City/main/fixthecity/assets/fixthecity-asset/z8.png" alt="Fix The City Asset" width="200">
+</td>
     
  
 </table>
