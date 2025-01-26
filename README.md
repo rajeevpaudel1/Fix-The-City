@@ -125,10 +125,15 @@ Fix The City empowers citizens by providing a simple and efficient platform to r
 ### User Settings 
 <table>
   <tr>
-    <td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325157572876959866/image.png?ex=677ac4a9&is=67797329&hm=0d372cd018faa6108adfcc5c7dddf8d89efb258bf00a41853333b46f0b1663ef&" alt="signin" width="200"></td>
-    <td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325157759087546441/image.png?ex=677ac4d6&is=67797356&hm=3b1d9d6e127427cbe1b209fd6322ffe1fb8f163f0b5c698a06a908561a6014b3&" alt="register" width="200"></td> 
-    <td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325157880394944532/image.png?ex=677ac4f2&is=67797372&hm=b12811e75a1a64317c40ee5652ad98cbe2a59c931127feaf19771aad10a041e5&" alt="Image 3" width="200"></td>
-    <td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325158057226797199/image.png?ex=677ac51d&is=6779739d&hm=323fda59b84599050892e7080be81b90ca911b1c216065fa700fc722cca4e8a5&" alt="Image 3" width="200"></td><td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325165107541446706/image.png?ex=677acbae&is=67797a2e&hm=22a4aed7aa39bfedb749ea429963d035fcd5560685088a4993f4fd62c651e443&" alt="Image 3" width="200"></td>
+    <td> <img src="https://raw.githubusercontent.com/rajeevpaudel1/Fix-The-City/main/fixthecity/assets/fixthecity-asset/z1.png" alt="Fix The City Asset" width="200">
+</td>
+    <td> <img src="https://raw.githubusercontent.com/rajeevpaudel1/Fix-The-City/main/fixthecity/assets/fixthecity-asset/z2.png" alt="Fix The City Asset" width="200">
+</td> 
+    <td> <img src="https://raw.githubusercontent.com/rajeevpaudel1/Fix-The-City/main/fixthecity/assets/fixthecity-asset/zz4.png" alt="Fix The City Asset" width="200">
+</td>
+    <td> <img src="https://raw.githubusercontent.com/rajeevpaudel1/Fix-The-City/main/fixthecity/assets/fixthecity-asset/z5.png" alt="Fix The City Asset" width="200">
+</td><td> <img src="https://raw.githubusercontent.com/rajeevpaudel1/Fix-The-City/main/fixthecity/assets/fixthecity-asset/z9.png" alt="Fix The City Asset" width="200">
+</td>
   </tr>
  
 </table>
