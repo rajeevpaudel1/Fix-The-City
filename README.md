@@ -93,10 +93,14 @@ Fix The City empowers citizens by providing a simple and efficient platform to r
 
 <table>
   <tr>
-    <td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325155364970299402/image.png?ex=677ac29b&is=6779711b&hm=41955d092d18f80fdd210fd44dd4fad8cc3045d4b150b8cb910bbfa5a4b74f36&" alt="homepage1" width="200"></td>
-    <td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325155441692643392/image.png?ex=677ac2ad&is=6779712d&hm=2d47fb6029d5f4f05b95b4f49e8161ad8ef6c15ad5004b652c57efd77c701ddd&" alt="homepage" width="200"></td> 
-     <td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325163601564008558/image.png?ex=677aca46&is=677978c6&hm=2832e49b54f6c683d2bb3b28fbd155a38da2a874b421ec12562a61089f1c37e7&" alt="signin" width="200"></td>
-    <td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325161788844675174/image.png?ex=677ac896&is=67797716&hm=a2f95a461fdeb69295c4fd32f6b34cdcc24a4085db84eb2aac0848b1f9e96f53&" alt="register" width="200"></td> 
+    <td> <img src="https://raw.githubusercontent.com/rajeevpaudel1/Fix-The-City/main/fixthecity/assets/fixthecity-asset/s1.png" alt="Fix The City Asset" width="200">
+</td>
+    <td> <img src="https://raw.githubusercontent.com/rajeevpaudel1/Fix-The-City/main/fixthecity/assets/fixthecity-asset/s2.png" alt="Fix The City Asset" width="200">
+</td> 
+     <td> <img src="https://raw.githubusercontent.com/rajeevpaudel1/Fix-The-City/main/fixthecity/assets/fixthecity-asset/s3.png" alt="Fix The City Asset" width="200">
+</td>
+    <td> <img src="https://raw.githubusercontent.com/rajeevpaudel1/Fix-The-City/main/fixthecity/assets/fixthecity-asset/s4.png" alt="Fix The City Asset" width="200">
+</td> 
     <td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325161876203507793/image.png?ex=677ac8ab&is=6779772b&hm=e40c62f55ad25a3b61172126c2fdf5b164363323dafb79bd455e9bf0fe6c768a&" alt="Image 3" width="200"></td>
 
 </table>
