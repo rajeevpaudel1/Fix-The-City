@@ -68,9 +68,6 @@ Fix The City empowers citizens by providing a simple and efficient platform to r
 
 ---
 
-<div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325149435595849889/system_arch.png?ex=677abd15&is=67796b95&hm=b3bb67be7d9fcd2dc2baa19c380b1f98151cf0ba66147eedc54c6c0e0e30f28d&" alt="System Architecture Diagram" />
-</div>
 
 ---
 
