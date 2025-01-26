@@ -82,8 +82,8 @@ Fix The City empowers citizens by providing a simple and efficient platform to r
 
 <table>
   <tr>
-    <td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325155143708315719/image.png?ex=677ac266&is=677970e6&hm=395fcaeb66e25d5f7b034c67add7172dd1285b70ebcb85a987a19219ddab8104&" alt="signin" width="200"></td>
-    <td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325155812011802634/image.png?ex=677ac305&is=67797185&hm=5ee4bcdb940361c4557bfcaf4c6c1d5f9731afc3bfcc3726b3dde99dc5606f8b&" alt="register" width="200"></td>
+          <img src="https://raw.githubusercontent.com/rajeevpaudel1/Fix-The-City/main/fixthecity/assets/fixthecity-asset/s5.png" alt="Fix The City Asset" width="200">
+
 
 </table>
 
