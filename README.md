@@ -1,12 +1,10 @@
 # Fix The City
 
-A citizen centric mobile application built using Flutter, designed to streamline local government complaint management.
-
+A citizen-centric mobile application built using Flutter, designed to streamline local government complaint management.
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1324665851760349285/1325127148503044240/sadha_2-Photoroom.png?ex=677aa853&is=677956d3&hm=f948a3faf465225ab639764dbc474c1b71339eae88071431fef1243261b30724&" alt="Sajha Samadhan Logo" />
+  <img src="https://raw.githubusercontent.com/rajeevpaudel1/Fix-The-City/main/fixthecity/assets/Akar_logo.png" alt="Fix The Street" width="300">
 </div>
-
 
 
 ## Overview
