@@ -4,7 +4,8 @@ A citizen centric mobile application built using Flutter, designed to streamline
 
 
 <div align="center">
-  ![image alt](https://github.com/rajeevpaudel1/Fix-The-City/blob/main/fixthecity/assets/Akar_logo.png)
+  ![Fix The City]([image-link](https://github.com/rajeevpaudel1/Fix-The-City/blob/main/fixthecity/assets/Akar_logo.png))
+
 </div>
 
 
