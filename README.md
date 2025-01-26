@@ -100,8 +100,6 @@ Fix The City empowers citizens by providing a simple and efficient platform to r
      <td> <img src="https://raw.githubusercontent.com/rajeevpaudel1/Fix-The-City/main/fixthecity/assets/fixthecity-asset/s3.png" alt="Fix The City Asset" width="200">
 </td>
     <td> <img src="https://raw.githubusercontent.com/rajeevpaudel1/Fix-The-City/main/fixthecity/assets/fixthecity-asset/s4.png" alt="Fix The City Asset" width="200">
-</td> 
-    <td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325161876203507793/image.png?ex=677ac8ab&is=6779772b&hm=e40c62f55ad25a3b61172126c2fdf5b164363323dafb79bd455e9bf0fe6c768a&" alt="Image 3" width="200"></td>
 
 </table>
 
@@ -110,10 +108,14 @@ Fix The City empowers citizens by providing a simple and efficient platform to r
 
 <table>
   <tr>
-    <td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325156340515082351/image.png?ex=677ac383&is=67797203&hm=e29b28c99bbe4664e5480e9b2864ee4018ec9e9cfc980f37154f3bce1f021037&" alt="image 1" width="200"></td>
-    <td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325157032978022562/image.png?ex=677ac428&is=677972a8&hm=076ad2fd13be62cb08c4e2699801337a7f5fe56ef73c0e77349f73a949426a27&" alt="img 2" width="200"></td> 
-    <td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325157093145051228/image.png?ex=677ac437&is=677972b7&hm=a31c6bd14d7ae8c9651defb752299218cf4ccd23bd3daaee73a31ee7377b98fc&" alt="Image 3" width="200"></td>
-  <td><img src="https://cdn.discordapp.com/attachments/1324921969522507817/1325157366525726786/image.png?ex=677ac478&is=677972f8&hm=8bd8b515f887ed7b0e6b2c8e8f3badd6dc6e17d3e746c52e648d39e2bfb41b6d&" alt="Image 4" width="200"></td>
+    <td> <img src="https://raw.githubusercontent.com/rajeevpaudel1/Fix-The-City/main/fixthecity/assets/fixthecity-asset/s6.png" alt="Fix The City Asset" width="200">
+</td>
+    <td> <img src="https://raw.githubusercontent.com/rajeevpaudel1/Fix-The-City/main/fixthecity/assets/fixthecity-asset/ss7.png" alt="Fix The City Asset" width="200">
+</td> 
+    <td> <img src="https://raw.githubusercontent.com/rajeevpaudel1/Fix-The-City/main/fixthecity/assets/fixthecity-asset/s8.png" alt="Fix The City Asset" width="200">
+</td>
+  <td> <img src="https://raw.githubusercontent.com/rajeevpaudel1/Fix-The-City/main/fixthecity/assets/fixthecity-asset/s9.png" alt="Fix The City Asset" width="200">
+</td>
   
   </tr>
 </table>
