@@ -6,8 +6,13 @@
       <excludeFolder url="file://$MODULE_DIR$/Fix The City/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/Fix The City/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/Fix The City/build" />
+      <excludeFolder url="file://$MODULE_DIR$/fixthecity/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/fixthecity/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/fixthecity/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
   </component>
 </module>

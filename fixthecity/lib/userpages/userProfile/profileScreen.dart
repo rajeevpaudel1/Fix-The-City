@@ -119,10 +119,10 @@ class _ProfileScreenState extends State<ProfileScreen> {
                         color: Colors.deepPurple),
                     press: () {
 
-                      Navigator.push(
-                        context,
-                        MaterialPageRoute(builder: (context) => UserSettingsPage()),
-                      );
+                      // Navigator.push(
+                      //   context,
+                      //   MaterialPageRoute(builder: (context) => UserSettingsPage()),
+                      // );
 
                     },
                   ),

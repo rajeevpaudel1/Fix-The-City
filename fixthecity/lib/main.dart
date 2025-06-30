@@ -38,7 +38,11 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
     options: FirebaseOptions(
-        //Add your own API brother...//
+        apiKey: 'AIzaSyCxzPHuDDAfduqnMUE5Wymgdwc5TwHhu4o',
+        appId: '1:897372433402:android:4ace3450735673096d9243',
+        messagingSenderId: '897372433402',
+        projectId: 'demo1-3efb8',
+        storageBucket: 'gs://demo1-3efb8.appspot.com'),
   );
 
   // await PushNotifications.init();
